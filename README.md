@@ -1,6 +1,6 @@
 # To-do
 
-⭐️ main Issue : 백엔드개발자로 취업하기
+⭐️ main Issue : IT 취업
 
 part1.
   I. 서류
@@ -11,7 +11,7 @@ part1.
        2) html, css
        3) jquery
        4) mySQL
-       5)
+       5) 
        6)
        7)
      (2)프로젝트
