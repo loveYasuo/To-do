@@ -7,13 +7,13 @@ part1.
     1. 자소서/이력서
     2. 포트폴리오
      (1)(목표)기술스택
-       1) java, spring framework, spring boot
+       1) java, spring framework, spring boot, JPA, msa
        2) html, css
        3) jquery
        4) mySQL
-       5) 
-       6)
-       7)
+       5) AWS
+       6) jenkins
+       7) Git
      (2)프로젝트
        1)소스코드->깃허브
      (3)알고리즘
