@@ -2,6 +2,7 @@
 
 ⭐️ main Issue : IT 취업
 
+
 part1.
   I. 서류
     1. 자소서/이력서
